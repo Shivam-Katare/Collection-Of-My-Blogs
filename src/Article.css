@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.article-container{
+  border: 2px solid black;
+  box-shadow: -9px 0px 45px 38px rgba(0,0,0,0.1);
+}
+.article-posted-on{
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+.blogs-section{
+  margin: 16px;
+}
